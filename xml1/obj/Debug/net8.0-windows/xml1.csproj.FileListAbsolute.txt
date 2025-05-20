@@ -1,0 +1,17 @@
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xml1.exe
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xmltest.xml
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xml1.deps.json
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xml1.runtimeconfig.json
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xml1.dll
+D:\edu\oop\xml1\xml1\bin\Debug\net8.0-windows\xml1.pdb
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.Form1.resources
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.csproj.GenerateResource.cache
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.AssemblyInfoInputs.cache
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.AssemblyInfo.cs
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.csproj.CoreCompileInputs.cache
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.dll
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\refint\xml1.dll
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.pdb
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\xml1.genruntimeconfig.cache
+D:\edu\oop\xml1\xml1\obj\Debug\net8.0-windows\ref\xml1.dll
